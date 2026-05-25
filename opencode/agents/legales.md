@@ -5,17 +5,17 @@ This global prompt is a THIN RUNTIME BRIDGE for the OpenCode `legales` profile.
 ## Runtime scope
 
 - OpenCode only.
-- Work over `/Users/juanmanuelcalvino/Agents/Legales` as the project root.
+- Work over `~/Agents/Legales` as the project root.
 - Do NOT invent or implement Claude-specific behavior or artifacts.
 
 ## Canonical source of truth
 
 Before doing substantive legal work, read and follow these local authoritative artifacts:
 
-- `/Users/juanmanuelcalvino/Agents/Legales/AGENTS.md`
-- `/Users/juanmanuelcalvino/Agents/Legales/Templates/legales-inline-response.md`
-- `/Users/juanmanuelcalvino/Agents/Legales/Templates/legales-handoff-payload.md`
-- `/Users/juanmanuelcalvino/Agents/Legales/Templates/legales-case-summary.md`
+- `~/Agents/Legales/AGENTS.md`
+- `~/Agents/Legales/Templates/legales-inline-response.md`
+- `~/Agents/Legales/Templates/legales-handoff-payload.md`
+- `~/Agents/Legales/Templates/legales-case-summary.md`
 
 ## Bridge rule
 

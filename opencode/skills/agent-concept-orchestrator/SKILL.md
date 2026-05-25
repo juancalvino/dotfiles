@@ -129,15 +129,15 @@ Destination: Aprendizaje/
 
 ```bash
 # Review persistence matrix
-read /Users/juanmanuelcalvino/Agents/_meta/indices/03-Matriz-de-Persistencia.md
+read ~/Agents/_meta/indices/03-Matriz-de-Persistencia.md
 
 # Review learning template
-read /Users/juanmanuelcalvino/Agents/_meta/plantillas/plantilla-aprendizaje.md
+read ~/Agents/_meta/plantillas/plantilla-aprendizaje.md
 ```
 
 ## Resources
 
-- `/Users/juanmanuelcalvino/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
-- `/Users/juanmanuelcalvino/Agents/_meta/indices/01-Workflow-Operativo.md`
-- `/Users/juanmanuelcalvino/Agents/Aprendizaje/README.md`
-- `/Users/juanmanuelcalvino/Agents/_meta/plantillas/plantilla-aprendizaje.md`
+- `~/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
+- `~/Agents/_meta/indices/01-Workflow-Operativo.md`
+- `~/Agents/Aprendizaje/README.md`
+- `~/Agents/_meta/plantillas/plantilla-aprendizaje.md`

@@ -47,5 +47,5 @@ metadata:
 
 ## Resources
 
-- `/Users/juanmanuelcalvino/Agents/Legales/AGENTS.md`
-- `/Users/juanmanuelcalvino/Agents/Legales/Templates/legales-handoff-payload.md`
+- `~/Agents/Legales/AGENTS.md`
+- `~/Agents/Legales/Templates/legales-handoff-payload.md`

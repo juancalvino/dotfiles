@@ -1,7 +1,7 @@
 # Terminal
 term = xterm-ghostty
 shell-integration = zsh
-command = /opt/homebrew/bin/tmux
+command = /opt/homebrew/bin/tmux new-session -c ~
 
 # Font
 font-family = "JetBrainsMono Nerd Font"
@@ -13,7 +13,7 @@ background-opacity = 0.90
 background-opacity-cells = true
 background-blur-radius = 20
 macos-window-shadow = true
-custom-shader = /Users/juanmanuelcalvino/.config/ghostty/focused-border.glsl
+custom-shader = ~/.config/ghostty/focused-border.glsl
 unfocused-split-opacity = 0.68
 unfocused-split-fill = #000000
 split-divider-color = #000000

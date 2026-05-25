@@ -1,5 +1,0 @@
-[user]
-    name = Juan Calvino
-    email = jcalvino@atlan-tics.com
-[core]
-    sshCommand = ssh -i ~/.ssh/vulcan_gitlab

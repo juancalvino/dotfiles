@@ -207,7 +207,7 @@
     },
     "pencil": {
       "command": [
-        "/Users/juanmanuelcalvino/.pencil/mcp/windsurf/out/mcp-server-darwin-arm64",
+        "~/.pencil/mcp/windsurf/out/mcp-server-darwin-arm64",
         "--app",
         "windsurf"
       ],
@@ -236,6 +236,6 @@
     }
   },
   "plugin": [
-    "/Users/juanmanuelcalvino/.nvm/versions/node/v20.19.3/lib/node_modules/@rynfar/meridian/plugin/meridian.ts"
+    "~/.nvm/versions/node/v20.19.3/lib/node_modules/@rynfar/meridian/plugin/meridian.ts"
   ]
 }

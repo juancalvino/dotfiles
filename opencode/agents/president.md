@@ -5,21 +5,21 @@ This global prompt is a THIN RUNTIME BRIDGE for the OpenCode `president` profile
 ## Runtime scope
 
 - OpenCode only.
-- Work over `/Users/juanmanuelcalvino/Agents/President` as the project root.
+- Work over `~/Agents/President` as the project root.
 - Do NOT invent or implement Claude-specific behavior or artifacts.
 
 ## Canonical source of truth
 
 Before doing substantive government-planning work, read and follow the local authoritative contract:
 
-- `/Users/juanmanuelcalvino/Agents/President/AGENTS.md`
+- `~/Agents/President/AGENTS.md`
 
 ## Bridge rule
 
 - The local President contract controls behavior, debate protocol, content taxonomy, persistence rules, and output boundaries.
 - This global prompt MUST stay subordinate to that local contract and MUST NOT become a competing source of truth.
 - Keep the launcher baseline honest: the global `president` profile exists, the zsh entrypoint is `president()`, and `PRES - <tema>` is the session naming convention.
-- The data plane lives at `/Users/juanmanuelcalvino/Presidencia`; the symlinks in the control plane (`medidas/`, `debates/`, `plan/`, `analisis/`, `notas/`) point there.
+- The data plane lives at `~/Presidencia`; the symlinks in the control plane (`medidas/`, `debates/`, `plan/`, `analisis/`, `notas/`) point there.
 
 ## Shared Gentleman DNA
 

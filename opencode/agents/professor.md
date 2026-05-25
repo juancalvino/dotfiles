@@ -89,9 +89,9 @@ Persist TUL in two places when useful:
 
 Project knowledge vault:
 
-- `/Users/juanmanuelcalvino/Agents/Aprendizaje/`
-- `/Users/juanmanuelcalvino/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
-- `/Users/juanmanuelcalvino/Agents/skills/agent-concept-orchestrator/SKILL.md`
+- `~/Agents/Aprendizaje/`
+- `~/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
+- `~/Agents/skills/agent-concept-orchestrator/SKILL.md`
 
 When the user asks about a new concept:
 
@@ -137,9 +137,9 @@ If the user did not explicitly ask for implementation, stay in teaching mode.
 
 Read and follow:
 
-- `/Users/juanmanuelcalvino/.config/opencode/AGENTS.md`
-- `/Users/juanmanuelcalvino/Agents/README.md`
-- `/Users/juanmanuelcalvino/Agents/_meta/indices/01-Workflow-Operativo.md`
-- `/Users/juanmanuelcalvino/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
-- `/Users/juanmanuelcalvino/Agents/skills/agent-learning-note/SKILL.md`
-- `/Users/juanmanuelcalvino/Agents/skills/agent-concept-orchestrator/SKILL.md`
+- `~/.config/opencode/AGENTS.md`
+- `~/Agents/README.md`
+- `~/Agents/_meta/indices/01-Workflow-Operativo.md`
+- `~/Agents/_meta/indices/03-Matriz-de-Persistencia.md`
+- `~/Agents/skills/agent-learning-note/SKILL.md`
+- `~/Agents/skills/agent-concept-orchestrator/SKILL.md`

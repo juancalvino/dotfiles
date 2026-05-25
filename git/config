@@ -1,13 +1,6 @@
-[safe]
-	directory = /Users/juanmanuelcalvino/dev/vulcan/sandbox/vulcan-erp/VulcanERP
-	directory = /Users/juanmanuelcalvino/dev/vulcan/sandbox/vulcan-erp/moqui-sso
-	directory = /Users/juanmanuelcalvino/dev/vulcan/sandbox/vulcan-erp
-
-[includeIf "gitdir:~/dev/vulcan/"]
-    path = ~/.config/git/config-vulcan
 [user]
 	name = Juan Manuel Calvino
-	email = jcalvino@atlan-tics.com
+	email = juanmanuelcalvino@users.noreply.github.com
 [core]
 	autocrlf = input
 [init]
