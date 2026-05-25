@@ -1,0 +1,52 @@
+# Terminal
+term = xterm-ghostty
+shell-integration = zsh
+command = /opt/homebrew/bin/tmux
+
+# Font
+font-family = "JetBrainsMono Nerd Font"
+font-size = 14
+font-feature = calt
+
+# Appearance
+background-opacity = 0.90
+background-opacity-cells = true
+background-blur-radius = 20
+macos-window-shadow = true
+custom-shader = /Users/juanmanuelcalvino/.config/ghostty/focused-border.glsl
+unfocused-split-opacity = 0.68
+unfocused-split-fill = #000000
+split-divider-color = #000000
+window-padding-x = 8
+window-padding-y = 6
+window-padding-color = background
+
+# Clipboard
+copy-on-select = clipboard
+clipboard-read = allow
+clipboard-write = allow
+
+# Window behavior
+confirm-close-surface = false
+working-directory = ~
+window-inherit-working-directory = true
+tab-inherit-working-directory = true
+split-inherit-working-directory = true
+
+# Tmux compatibility
+keybind = alt+shift+-=unbind
+keybind = alt+shift+\=unbind
+
+# Split navigation
+keybind = cmd+[=unbind
+keybind = cmd+]=unbind
+keybind = cmd+n=goto_split:left
+keybind = cmd+e=goto_split:down
+keybind = cmd+i=goto_split:up
+keybind = cmd+o=goto_split:right
+keybind = cmd+ctrl+n=resize_split:left,10
+keybind = cmd+ctrl+e=resize_split:down,10
+keybind = cmd+ctrl+i=resize_split:up,10
+keybind = cmd+ctrl+o=resize_split:right,10
+keybind = cmd+ctrl+==equalize_splits
+keybind = cmd+u=new_window
